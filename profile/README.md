@@ -31,12 +31,8 @@
 
 <br/><br/>
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npmaiecosystem/npmaiecosystem/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/npmaiecosystem/npmaiecosystem/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/npmaiecosystem/npmaiecosystem/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<!--CONTRIBUTION GRAPH -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=80&text=NPMAI%20ECOSYSTEM&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%"/>
 
 </div>
 
